@@ -18,15 +18,15 @@ We generate a set of 2,000 random latitudes and longitudes, retrieve the nearest
 
 We use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers. Below is a screenshot of the output of the marker layer map with a pop-up marker for each city. 
 
-![WeatherPy_vacation_map.png](https://github.com/alexhuynh0530/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_vacation_map.png)
+![WeatherPy_vacation_map.png](https://github.com/alexhuynh0530/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Creating a Travel Itinerary Map
 
 We use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary. Below you'll find the map of the travel itinerary that shows the route betwen the 4 chosen cities. Next, you'll see the marker layer map with a pop-up marker for each city.
 
-![WeatherPy_travel_map.png](https://github.com/alexhuynh0530/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_travel_map.png)
+![WeatherPy_travel_map.png](https://github.com/alexhuynh0530/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
-![WeatherPy_travel_map_markers.png](https://github.com/alexhuynh0530/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_travel_map_markers.png)
+![WeatherPy_travel_map_markers.png](https://github.com/alexhuynh0530/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 ## Summary
 
